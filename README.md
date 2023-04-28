@@ -1,4 +1,5 @@
 # k-diffusion-explained
+![heun](https://user-images.githubusercontent.com/67547213/235102267-0fb0bb74-471b-45c6-8f5b-7d27aa4f3b68.png)
 
 ## Math Derivations
 The math derivations in the repository provide a detailed explanation of the k-diffusion and its mathematical properties. These derivations are written in a clear and concise manner, making them accessible to anyone with a basic understanding of probability and statistics.
