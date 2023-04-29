@@ -15,3 +15,7 @@ The videos are designed to be intuitive, engaging and informative, making them a
 - Add LaTeX math derivations
 - Add comments to the code to improve readability and make it easier to follow the implementation
 - Create an additional k-diffusion intuition-focused video
+
+## Acknowledgments
+- [Katherine's code](https://github.com/crowsonkb/k-diffusion) is exemplary and demonstrates exceptional quality and self-sufficiency. In fact, it's one of the finest generative vision model codes I've come across. 
+- I would also like to express my gratitude to Karras et al. for [their remarkable paper](https://arxiv.org/abs/2206.00364). Their work not only simplifies things but also enhances the quality of the overall field.
